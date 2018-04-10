@@ -82,7 +82,7 @@ The template includes ansible configuration, choose roles, necessary for the pro
 * ``$ cp env.example ./config/.env``
 * ``$ python manage.py runserver 0.0.0.0:8000``
 
-### Git inicialisation
+### Git initialization
 
 * ``$ git init``
 * ``$ git remote add origin {{ repo_url }}``
